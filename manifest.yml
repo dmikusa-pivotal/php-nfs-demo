@@ -1,0 +1,6 @@
+---
+applications:
+- name: nfs-test
+  memory: 64M
+  buildpacks:
+    - php_buildpack
